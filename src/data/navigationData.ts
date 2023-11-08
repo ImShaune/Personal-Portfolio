@@ -22,5 +22,7 @@ export const navMenuList = [
     {
         title: 'Hire Me',
         href: 'mailto:nahuel.dev99@gmail.com'
-    }
+     },
+
+    
 ]
