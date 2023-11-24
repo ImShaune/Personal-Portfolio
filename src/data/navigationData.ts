@@ -5,8 +5,8 @@ export const navMenuList = [
     },
 
     {
-        title: 'About Me',
-        href: '#about-me'
+        title: 'Projects',
+        href: '#projects'
     },
 
     {
@@ -15,8 +15,8 @@ export const navMenuList = [
     },
 
     {
-        title: 'Projects',
-        href: '#projects'
+        title: 'About Me',
+        href: '#aboutme'
     },
 
     {

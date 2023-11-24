@@ -3,7 +3,7 @@ import { Heading } from "./Heading"
 
 export function SkillSection() {
     return (
-        <section>
+        <section id="skills" className="scroll-mt-28">
             <Heading title="Skills" desc="These are some languages and frameworks I know and manage" />
             
             <div className="space-y-6">

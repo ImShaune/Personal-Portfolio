@@ -5,7 +5,7 @@ import { CustomLink } from "./CustomLink";
 
 export function AboutSection() {
     return ( 
-        <section className="mt-10">
+        <section id="aboutme" className="mt-10 scroll-mt-28">
             <Heading title="About Me" desc="Let me know something about me" />
 
             <div className="flex gap-4 flex-col md:flex-row items-center">

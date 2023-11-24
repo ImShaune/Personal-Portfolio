@@ -3,7 +3,7 @@ import { CustomLink } from "./CustomLink";
 
 export function HeroSection() {
     return (
-        <section className="grid md:grid-cols-2 items-center h-[calc(100vh-70px)] max-h-[678px]">
+        <section id='home' className="grid md:grid-cols-2 items-center h-[calc(100vh-70px)] max-h-[678px] scroll-mt-28">
             <div>
                 <h1 className="font-title tracking-wider text-3xl sm:text-4xl -ml-0.5">
                     Hello there! I’m Shaune
