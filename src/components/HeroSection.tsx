@@ -1,16 +1,14 @@
 import Image from 'next/image';
 import { CustomLink } from "./CustomLink";
+import { motion } from 'framer-motion';
 
 export function HeroSection() {
     return (
         <section id='home' className="grid md:grid-cols-2 items-center h-[calc(100vh-70px)] max-h-[678px] scroll-mt-28">
             <div>
                 <h1 className="font-title tracking-wider text-3xl sm:text-4xl -ml-0.5">
-                    Hello there! I’m Shaune
+                    Hello there! I’m trainee developer
                 </h1>
-                <h2 className='font-title tracking-wider text-2xl sm:text-2xl -ml-0.3'>
-                    Trainee developer
-                </h2>
                 <p className="text-lg mb-1 text-zinc-300 mt-3">
                 Welcome to my personal portfolio, here you will find projects that I did along my time studying development, you will also find the languages and frameworks that I have knowledge as well as information about me and social networks.
                 </p>
