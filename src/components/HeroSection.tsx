@@ -6,12 +6,13 @@ export function HeroSection() {
         <section className="grid md:grid-cols-2 items-center h-[calc(100vh-70px)] max-h-[678px]">
             <div>
                 <h1 className="font-title tracking-wider text-3xl sm:text-4xl -ml-0.5">
-                    Hello there!👋 I’m Shaune
+                    Hello there! I’m Shaune
                 </h1>
-                <p className="text-lg mb-1 text-zinc-300 mt-2">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Suspendisse sed nisi lacus sed viverra. Tristique senectus et netus et malesuada fames ac turpis.
+                <h2 className='font-title tracking-wider text-2xl sm:text-2xl -ml-0.3'>
+                    Trainee developer
+                </h2>
+                <p className="text-lg mb-1 text-zinc-300 mt-3">
+                Welcome to my personal portfolio, here you will find projects that I did along my time studying development, you will also find the languages and frameworks that I have knowledge as well as information about me and social networks.
                 </p>
                 <CustomLink href="#projects" className="mt-4">
                     Some personal projects

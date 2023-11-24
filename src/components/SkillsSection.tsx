@@ -6,7 +6,7 @@ export function SkillSection() {
         <section>
             <Heading title="Skills" desc="These are some languages and frameworks I know and manage" />
             
-            <div>
+            <div className="space-y-6">
                 {Object.values(skills).map(cate => {
                     return <div 
                     key={cate.title}>
