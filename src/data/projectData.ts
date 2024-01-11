@@ -17,42 +17,6 @@ export const projects = [
         demo: "https://glassmorph-generator.vercel.app/",
     },
 
-    {
-        title: " Test ", 
-        desc: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed viverra. Tristique senectus et netus et malesuada fames ac turpis. ",
-        stack: [" TestJS "],
-        image: "/test.png",
-        sourceCode: "https://github.com",
-        demo: "https://github.com",
-    },
-
-    {
-        title: " Test ", 
-        desc: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed viverra. Tristique senectus et netus et malesuada fames ac turpis. ",
-        stack: [" TestJS "],
-        image: "/test.png",
-        sourceCode: "https://github.com",
-        demo: "https://github.com",
-    },
-
-    {
-        title: " Test ", 
-        desc: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed viverra. Tristique senectus et netus et malesuada fames ac turpis. ",
-        stack: [" TestJS "],
-        image: "/test.png",
-        sourceCode: "https://github.com",
-        demo: "https://github.com",
-    },
-
-    {
-        title: " Test ", 
-        desc: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse sed nisi lacus sed viverra. Tristique senectus et netus et malesuada fames ac turpis. ",
-        stack: [" TestJS "],
-        image: "/test.png",
-        sourceCode: "https://github.com",
-        demo: "https://github.com",
-    },
-
     
 
 ]

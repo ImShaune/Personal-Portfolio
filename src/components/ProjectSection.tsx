@@ -15,7 +15,7 @@ export function ProjectSection() {
                 })}
             </div>
             <div className="mt-6 flex justify-center">
-                <CustomLink href="https://github.com/ImShaune" linkType="secondary">See all my projects</CustomLink>
+                <CustomLink href="https://github.com/ImShaune" linkType="secondary">See all my projects </CustomLink>
             </div>
         </section>
     );
